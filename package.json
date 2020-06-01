@@ -1,0 +1,8 @@
+{
+  "name": "aerodogs",
+  "version": "1.0.0",
+  "description": "js videogame",
+  "main": "index.js",
+  "author": "Rodrigo Corrales",
+  "license": "MIT"
+}
